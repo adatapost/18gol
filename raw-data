@@ -1,7 +1,11 @@
-#Data gathered 
+#Data gathered
 
 Raw Data
+----
+
 Personsonal details of a member
+==
+
 Family Identifier
 
 Record Id (Unique Record Identifer)
@@ -52,7 +56,10 @@ Achievements
 
 Extra activities
 
+
 Address Details
+===
+
 City
 
 State
@@ -65,27 +72,41 @@ Pin
 
 Address-lines
 
+
 Village Details
+==
+
 Village name
 
 Taluka and District
 
 Date added - Village membership
 
+
 Village Statastics
+==
+
 Date
 
 Details
 
 History
 
+
 Marriage & Relations
+===
+
 Sopuse
 
-Matrimony
+
+Matrimony 
+==
+
 List of people
 
 Community
+==
+
 Community name
 
 Office or Premises
@@ -98,7 +119,10 @@ Contact Person
 
 Commuity Governing Body
 
-Activities
+
+Activities 
+==
+
 Activities - Functions
 
 Fund raising activites
@@ -109,7 +133,10 @@ Women Empowerment Activities
 
 Health and other services
 
-Samuh Lagna - Mass Marraige Functions
+
+Samuh Lagna - Mass Marraige Functions 
+====
+
 Groom and bride registration records
 
 Marriage function Donar detail
@@ -118,14 +145,42 @@ Expenditure records
 
 Mass Marriage gift records
 
-Mass Marriage committies
+Mass Marriage committies 
 
-Education Programs
-General Donar
+
+Education Programs 
+===========
+
+
+General Donar 
+======
+
+
 Student Loan (Help)
+===
+
+
 Family Loan (HElp)
-Business/occupation details of comunity members
-Community Meetings
+=====
+
+
+Business/occupation details of comunity members 
+=======
+
+Community Meetings  
+===
+
 Meetings
 
 Meeting Agenda
+
+
+
+
+
+
+
+
+
+
+
